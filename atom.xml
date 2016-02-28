@@ -17,9 +17,9 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/02/19/hello-world/"/>
-    <id>http://yoursite.com/2016/02/19/hello-world/</id>
-    <published>2016-02-19T09:53:10.940Z</published>
+    <link href="http://yoursite.com/2016/02/28/hello-world/"/>
+    <id>http://yoursite.com/2016/02/28/hello-world/</id>
+    <published>2016-02-28T12:11:06.981Z</published>
     <updated>2016-02-19T09:53:10.940Z</updated>
     
     <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;http://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;http://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
@@ -36,6 +36,35 @@
     <summary type="html">
     
       &lt;p&gt;Welcome to &lt;a href=&quot;http://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://hexo.io
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用Hexo搭建个人博客</title>
+    <link href="http://yoursite.com/2016/02/12/%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2016/02/12/使用Hexo搭建个人博客/</id>
+    <published>2016-02-12T12:14:22.000Z</published>
+    <updated>2016-02-28T13:03:11.333Z</updated>
+    
+    <content type="html">&lt;p&gt;实验室的学长们在寒假布置我们通过博客来记述自己的学习过程。由于服务器的价格太贵，所以我采用腾讯云学生免费域名+Hexo+github来搭建自己的第一个博客。&lt;/p&gt;
+&lt;p&gt;###入门知识&lt;/p&gt;
+&lt;p&gt;##Hexo&lt;br&gt;Hexo是一个功能强大的静态网站生成系统，快速、简洁、高效。Hexo 支持 GitHub Flavored Markdown 的所有功能，甚至可以整合 Octopress 的大多数插件。可以一键部署到github，还有丰富的插件和主题,还支持热部署哦。执行如下命令进行安装。&lt;/p&gt;
+&lt;p&gt;##node.js&lt;br&gt;因为Hexo是基于node.js的，所需要到node.js的官网下载安装。（安装默认步骤就好了。）&lt;/p&gt;
+&lt;p&gt;##git&lt;br&gt;Git是一款免费、开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。提供一个”用户名“.github.io的个人主页，共大家使用。&lt;/p&gt;
+&lt;p&gt;###实战操作&lt;/p&gt;
+&lt;p&gt;##网络上关于Hexo搭建的教程很多（例如：&lt;a href=&quot;http://www.jianshu.com/p/465830080ea9&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HEXO+Github,搭建属于自己的博客&lt;/a&gt;）。我就是按照这个搭建而成的。现在我总结一下自己的错误地方共大家参考。1.需要新建一个文件夹然后再右击它，选择GIT GUI HERE.2.上传的时候第一次填入的是usename,第二次才是密码。其实这应该是搭建博客最简单的方式。&lt;/p&gt;
+&lt;p&gt;###总结&lt;/p&gt;
+&lt;p&gt;##通过这次搭建博客，我完成了自己第一篇博客，虽然内容很空洞，但是因为这个真的很简单。 &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;实验室的学长们在寒假布置我们通过博客来记述自己的学习过程。由于服务器的价格太贵，所以我采用腾讯云学生免费域名+Hexo+github来搭建自己的第一个博客。&lt;/p&gt;
+&lt;p&gt;###入门知识&lt;/p&gt;
+&lt;p&gt;##Hexo&lt;br&gt;Hexo是一个功能强大的静态网站生成系统，快速、简洁
     
     </summary>
     
